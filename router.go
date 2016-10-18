@@ -1,0 +1,6 @@
+package router
+
+func init()
+{
+
+}
