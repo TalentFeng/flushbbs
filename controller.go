@@ -1,5 +1,1 @@
-package controller
-
-func init()
-{
-}
+package flushbbs

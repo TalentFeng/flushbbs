@@ -1,6 +1,1 @@
-package router
-
-func init()
-{
-
-}
+package flushbbs
